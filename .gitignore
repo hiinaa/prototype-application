@@ -11,3 +11,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+# imagesフォルダ内の .png ファイルは要らない
+images/**/*.png
+
+
